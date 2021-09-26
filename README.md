@@ -1,1 +1,3 @@
-3 Homeworks made during the Big Dat Computing course at University of Padua in Java
+# BigDataComputing-Homeworks
+Homeworks for the Big Data Computing course @ UniPD (2020)
+
